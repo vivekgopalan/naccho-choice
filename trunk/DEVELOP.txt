@@ -1,0 +1,5 @@
+svn co svn checkout http://naccho-choice.googlecode.com/svn/trunk/ naccho-choice
+
+cd naccho-choice
+mvn package
+mvn eclipse:eclipse
