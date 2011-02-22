@@ -1,0 +1,107 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  text-align: center;
+}
+
+body {
+	background-color: #EEEEEE;
+    font-family: Verdana,Arial,sans-serif;
+    font-size: small;
+    margin: 0;
+}
+
+#top_bar {
+    border-top: 7px solid #5C8098;
+    height: 15px;
+}
+
+#main_heading{
+color: #777777;
+    font-size: 150%;
+    font-weight: bold;
+    background-color: #151B54;
+    color:white;
+    padding: 10px;
+    text-align: center;
+}
+.input_panel_options {
+	padding-left: 15px;
+	}
+	.input_panel_heading {
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-weight: bold;
+	font-size: 90%;
+	}
+	
+	.input_panel_top_topic {
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-weight: bold;
+	font-size: 100%;
+	color:#151B54;
+	}
+#welcome_message{
+	
+	background-color: #ECF4FE;
+    background-position: 3px 6px;
+    border-color: #AAAAAA #999999;
+    border-style: solid;
+    border-width: 1px;
+    margin: 0.75em 0;
+    width: 933px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.input_panel {
+	width:220px;
+	background-color: #EEEEEE;
+	}
+.output_panel {
+   width:700px;
+   background-color: #BBBBBB;	
+}
+#main_content {
+	 background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #5977BD;
+    height: auto;
+    margin: 0 auto;
+    min-width: 985px;
+    overflow: hidden;
+    padding:10px;
+    width: 985px;
+	}
+
+.sendButton {
+  display: block;
+  font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}
+
+.outputPanel-table {
+	padding:10px;
+}
