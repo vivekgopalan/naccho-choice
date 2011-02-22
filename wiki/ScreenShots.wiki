@@ -1,0 +1,4 @@
+= Screenshots =
+
+|| <a href='http://naccho-choice.googlecode.com/svn/trunk/src/main/webapp/docs/naccho-choice-pie.png'><img src='http://naccho-choice.googlecode.com/svn/trunk/src/main/webapp/docs/naccho-choice-pie.png' width='200' border='0'\></a> || <a href='http://naccho-choice.googlecode.com/svn/trunk/src/main/webapp/docs/naccho-choice-table.png'><img src='http://naccho-choice.googlecode.com/svn/trunk/src/main/webapp/docs/naccho-choice-table.png' width='200' border='0'\></a> || 
+|| <a href='http://naccho-choice.googlecode.com/svn/trunk/src/main/webapp/docs/naccho-choice-map1.png'><img src='http://naccho-choice.googlecode.com/svn/trunk/src/main/webapp/docs/naccho-choice-map1.png' width='200' border='0'\></a> || <a href='http://naccho-choice.googlecode.com/svn/trunk/src/main/webapp/docs/naccho-choice-map2.png'><img src='http://naccho-choice.googlecode.com/svn/trunk/src/main/webapp/docs/naccho-choice-map2.png' width='200' border='0'\></a> || 
